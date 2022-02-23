@@ -1,0 +1,15 @@
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  align-items: center;
+  width: 100%;
+}
+li {
+  border: solid 1px black;
+  width: 100%;
+}
+.mojcontanier {
+  width: 100vw;
+}
